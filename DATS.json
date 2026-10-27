@@ -39,6 +39,7 @@
             },
             "access": {
                 "landingPage": "https://osf.io/aeg5d/",
+                "accessURL": "https://files.us.osf.io/v1/resources/aeg5d/providers/osfstorage/?zip=",
                 "authorizations": [
 					{
 						"value": "public"
